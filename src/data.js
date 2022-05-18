@@ -1,5 +1,6 @@
 export default [
     {
+        id: 1,
         title: "Chicago",
         location: "USA",
         googleMapsUrl: "https://goo.gl/maps/7o1sgZCbwHbM9NhT7",
@@ -9,6 +10,7 @@ export default [
         imageUrl: "chicago.png"
     },
     {
+        id: 2,
         title: "Melbourne",
         location: "Australia",
         googleMapsUrl: "https://goo.gl/maps/hqo7i8KmaibrHZeZA",
@@ -18,6 +20,7 @@ export default [
         imageUrl: "luna-park.png"
     },
     {
+        id: 3,
         title: "Merida",
         location: "Mexico",
         googleMapsUrl: "https://goo.gl/maps/LJbDuChtkRD8iH7S7",
@@ -27,6 +30,7 @@ export default [
         imageUrl: "yucatan.png"
     },
     {
+        id: 4,
         title: "Tokyo",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/t1PGNw39mGk2iQn29",
@@ -36,6 +40,7 @@ export default [
         imageUrl: "tokyo.png"
     },
     {
+        id: 5,
         title: "Amsterdam",
         location: "Netherlands",
         googleMapsUrl: "https://goo.gl/maps/SauXDxchYvhV6wuU8",

@@ -28,3 +28,17 @@ body {
     color: white;
     font-size: 16px;
 }
+
+.card {
+    border-bottom: 1px solid grey;
+    margin: 20px 50px;
+   
+    display: flex;
+}
+
+.card--img {
+    object-fit: cover;
+    height: 200px;
+    width: 140px;
+    border-radius: 8px;
+}
