@@ -51,8 +51,8 @@ export default [
     },
     {
         id: 4,
-        title: "Tokyo",
-        location: "Japan",
+        title: "Scotland",
+        location: "Edinburgh",
         googleMapsUrl: "https://goo.gl/maps/t1PGNw39mGk2iQn29",
         startDate: "13 May, 2011",
         endDate: "24 Nov, 2012",
