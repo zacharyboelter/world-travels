@@ -49,4 +49,14 @@ export default [
         description: "Amsterdam is famous for its fine culture, rich history, beautiful canals, coffeeshops, and its famous Red Light District. Because of this, Amsterdam was visited by 9 million tourists in 2019. If you are looking for a city that pulls you in with its art, charm, grace, and beauty, then look no further than Amsterdam.",
         imageUrl: "amsterdam.png"
     },
+    {
+        id: 4,
+        title: "Tokyo",
+        location: "Japan",
+        googleMapsUrl: "https://goo.gl/maps/t1PGNw39mGk2iQn29",
+        startDate: "13 May, 2011",
+        endDate: "24 Nov, 2012",
+        description: "Edinburgh is known for being one of the most beautiful cities in the world, its historic attractions, UNESCO World Heritage sites, and rich history. Widely considered the world's best festival city, it's a powerhouse for the literary arts, comedy, culture, high education, and more.",
+        imageUrl: "tokyo.png"
+    }
 ]
