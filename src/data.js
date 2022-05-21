@@ -57,6 +57,6 @@ export default [
         startDate: "13 May, 2011",
         endDate: "24 Nov, 2012",
         description: "Edinburgh is known for being one of the most beautiful cities in the world, its historic attractions, UNESCO World Heritage sites, and rich history. Widely considered the world's best festival city, it's a powerhouse for the literary arts, comedy, culture, high education, and more.",
-        imageUrl: "tokyo.png"
+        imageUrl: "edinburgh.png"
     }
 ]
